@@ -1,4 +1,4 @@
-# Issues
+# Feedback
 
 This respository is for tracking issues across ROBOKOP tools, and triaging them into the correct pools.
 
